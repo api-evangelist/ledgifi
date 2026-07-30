@@ -1,0 +1,59 @@
+# LedgiFi CL
+
+## LedgiFi
+
+- [Guía de impuestos de criptomonedas para personas en Chile](https://learn.ledgifi.com/chile/guia-de-impuestos-de-criptomonedas-para-personas-en-chile.md): Entender cómo calcular tus ganancias y pérdidas en tus transacciones puede ser algo complicado, esta guía te ayudará a sentirte más seguro y preparado a la hora de presentar tu declaración.
+- [¿Impuestos?](https://learn.ledgifi.com/chile/guia-de-impuestos-de-criptomonedas-para-personas-en-chile/impuestos.md): ¿Qué?
+- [Disclaimer](https://learn.ledgifi.com/chile/guia-de-impuestos-de-criptomonedas-para-personas-en-chile/disclaimer.md): LedgiFi no proporciona asesoramiento de ningún tipo ☝️
+- [¿Impuestos por usar criptomonedas?](https://learn.ledgifi.com/chile/impuestos-cripto/impuestos-por-usar-criptomonedas.md)
+- [¿Porqué debería declarar?](https://learn.ledgifi.com/chile/impuestos-cripto/porque-deberia-declarar.md)
+- [Declarar vs pagar impuestos](https://learn.ledgifi.com/chile/impuestos-cripto/declarar-vs-pagar-impuestos.md)
+- [¿Cómo se si debo declarar?](https://learn.ledgifi.com/chile/impuestos-cripto/como-se-si-debo-declarar.md)
+- [¿Qué tengo que declarar?](https://learn.ledgifi.com/chile/impuestos-cripto/que-tengo-que-declarar.md)
+- [Impuesto de Primera Categoría (IDPC)](https://learn.ledgifi.com/chile/impuestos-cripto/que-tengo-que-declarar/impuesto-de-primera-categoria-idpc.md)
+- [Impuesto Global Complementario (IGC)](https://learn.ledgifi.com/chile/impuestos-cripto/que-tengo-que-declarar/impuesto-global-complementario-igc.md)
+- [Donaciones](https://learn.ledgifi.com/chile/impuestos-cripto/que-tengo-que-declarar/donaciones.md)
+- [Libre de impuestos](https://learn.ledgifi.com/chile/impuestos-cripto/que-tengo-que-declarar/libre-de-impuestos.md)
+- [¿Cómo calcular lo que debo declarar?](https://learn.ledgifi.com/chile/impuestos-cripto/como-calcular-lo-que-debo-declarar.md)
+- [Costo de adquisición y Beneficio](https://learn.ledgifi.com/chile/impuestos-cripto/como-calcular-lo-que-debo-declarar/costo-de-adquisicion-y-beneficio.md)
+- [Métodos de valorización](https://learn.ledgifi.com/chile/impuestos-cripto/como-calcular-lo-que-debo-declarar/metodos-de-valorizacion.md)
+- [¿Qué método de valorización utilizar?](https://learn.ledgifi.com/chile/impuestos-cripto/como-calcular-lo-que-debo-declarar/que-metodo-de-valorizacion-utilizar.md)
+- [Corrección monetaria](https://learn.ledgifi.com/chile/impuestos-cripto/como-calcular-lo-que-debo-declarar/correccion-monetaria.md)
+- [Ejemplo práctico](https://learn.ledgifi.com/chile/impuestos-cripto/ejemplo-practico.md)
+- [Revisa](https://learn.ledgifi.com/chile/impuestos-cripto/revisa.md)
+- [Recomendaciones](https://learn.ledgifi.com/chile/impuestos-cripto/recomendaciones.md)
+- [Declarar tus criptos en el SII](https://learn.ledgifi.com/chile/impuestos-cripto/declarar-tus-criptos-en-el-sii.md)
+- [¿Cuándo debo hacerlo?](https://learn.ledgifi.com/chile/impuestos-cripto/declarar-tus-criptos-en-el-sii/cuando-debo-hacerlo.md)
+- [¿Cómo debo hacerlo?](https://learn.ledgifi.com/chile/impuestos-cripto/declarar-tus-criptos-en-el-sii/como-debo-hacerlo.md)
+- [Impuesto de Primera Categoría](https://learn.ledgifi.com/chile/impuestos-cripto/declarar-tus-criptos-en-el-sii/impuesto-de-primera-categoria.md)
+- [Impuesto Global Complementario](https://learn.ledgifi.com/chile/impuestos-cripto/declarar-tus-criptos-en-el-sii/impuesto-global-complementario.md)
+- [¿Cómo hago todo esto fácil?](https://learn.ledgifi.com/chile/impuestos-cripto/como-hago-todo-esto-facil.md)
+- [FAQ](https://learn.ledgifi.com/chile/impuestos-cripto/faq.md)
+- [Oficios SII](https://learn.ledgifi.com/chile/oficios-sii.md): Aquí podrás encontrar los oficios emitidos por el SII y un resumen comprensivo de ellos 👍🏻
+- [Oficio Ord. Nº963 del 14 de mayo de 2018](https://learn.ledgifi.com/chile/oficios-sii/oficio-ord.-no963-del-14-de-mayo-de-2018.md): Tributación que afecta a las rentas obtenidas en la compra y venta de criptomonedas – Rentas clasificadas en el N° 5, del Art. 20 de la LIR – La venta de bitcoins u otros activos virtuales o digitales
+- [Oficio Res. Nº36 del 23 de abril de 2019](https://learn.ledgifi.com/chile/oficios-sii/oficio-res.-no36-del-23-de-abril-de-2019.md): Consultas relacionadas a la tributación de los activos digitales o Criptomonedas
+- [Oficio Ord. Nº1371 del 16 de mayo de 2019](https://learn.ledgifi.com/chile/oficios-sii/oficio-ord.-no1371-del-16-de-mayo-de-2019.md): Tributación de una empresa que efectúa compra y venta, envíos y depósitos de Criptomonedas
+- [Oficio Ord. Nº1474 del 31 de julio de 2020](https://learn.ledgifi.com/chile/oficios-sii/oficio-ord.-no1474-del-31-de-julio-de-2020.md): Consultas relacionadas con la tributación de los activos digitales o criptomonedas
+- [Oficio Ord. Nº3014 del 26 de octubre de 2021:](https://learn.ledgifi.com/chile/oficios-sii/oficio-ord.-no3014-del-26-de-octubre-de-2021.md)
+- [Oficio Ord. Nº276 del 27 de enero de 2022](https://learn.ledgifi.com/chile/oficios-sii/oficio-ord.-no276-del-27-de-enero-de-2022.md): Tributación y declaración por comercialización de Criptoactivos
+- [Oficio Ord. Nº979 del 22 de marzo de 2022](https://learn.ledgifi.com/chile/oficios-sii/oficio-ord.-no979-del-22-de-marzo-de-2022.md): Costo y compensación de pérdidas en la enajenación de criptomonedas
+- [Oficio Ord. N°1466 del 02 de mayo de 2022](https://learn.ledgifi.com/chile/oficios-sii/oficio-ord.-n-1466-del-02-de-mayo-de-2022.md): Declaración de Criptoactivos
+- [Oficio Ord. N°1803 del 03 de junio de 2022](https://learn.ledgifi.com/chile/oficios-sii/oficio-ord.-n-1803-del-03-de-junio-de-2022.md): Tributación de la denominada “minería” de criptomonedas
+- [Oficio Ord. N°2208 del 21 de julio de 2022](https://learn.ledgifi.com/chile/oficios-sii/oficio-ord.-n-2208-del-21-de-julio-de-2022.md): Tratamiento tributario de operaciones sobre criptomonedas
+- [Oficio Ord. N° 3017 del 12 de octubre de 2022](https://learn.ledgifi.com/chile/oficios-sii/oficio-ord.-n-3017-del-12-de-octubre-de-2022.md): Tributación de activos digitales o criptoactivos vinculados con la prestación de servicios financieros
+- [Oficio Ord. N° 191 del 19 de enero de 2023](https://learn.ledgifi.com/chile/oficios-sii/oficio-ord.-n-191-del-19-de-enero-de-2023.md): Factibilidad de acoger donación de criptomonedas al régimen de donaciones con beneficios tributarios incorporado por la Ley N° 21.440.
+- [Oficio Ord. N° 3003 del 06 de diciembre de 2023](https://learn.ledgifi.com/chile/oficios-sii/oficio-ord.-n-3003-del-06-de-diciembre-de-2023.md): Tributación de criptomonedas
+- [Comprar cripto con fiat](https://learn.ledgifi.com/chile/tipos-de-transacciones/comprar-cripto-con-fiat.md)
+- [Cambiar cripto por cripto](https://learn.ledgifi.com/chile/tipos-de-transacciones/cambiar-cripto-por-cripto.md)
+- [Pagar algo con cripto](https://learn.ledgifi.com/chile/tipos-de-transacciones/pagar-algo-con-cripto.md)
+- [Vender cripto por fiat](https://learn.ledgifi.com/chile/tipos-de-transacciones/vender-cripto-por-fiat.md)
+- [Regalo o Donación](https://learn.ledgifi.com/chile/tipos-de-transacciones/regalo-o-donacion.md)
+- [Airdrops](https://learn.ledgifi.com/chile/tipos-de-transacciones/airdrops.md)
+- [Staking](https://learn.ledgifi.com/chile/tipos-de-transacciones/staking.md)
+- [Forks](https://learn.ledgifi.com/chile/tipos-de-transacciones/forks.md)
+- [Minería](https://learn.ledgifi.com/chile/tipos-de-transacciones/mineria.md)
+- [Pérdida y Robo de cripto](https://learn.ledgifi.com/chile/tipos-de-transacciones/perdida-y-robo-de-cripto.md)
+- [Futuros y Margin Trading](https://learn.ledgifi.com/chile/tipos-de-transacciones/futuros-y-margin-trading.md)
+- [Comisiones](https://learn.ledgifi.com/chile/tipos-de-transacciones/comisiones.md)
+- [Sueldo o remuneración](https://learn.ledgifi.com/chile/tipos-de-transacciones/sueldo-o-remuneracion.md)
+- [Recibir cripto como pago](https://learn.ledgifi.com/chile/tipos-de-transacciones/recibir-cripto-como-pago.md)

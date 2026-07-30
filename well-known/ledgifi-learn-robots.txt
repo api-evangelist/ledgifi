@@ -1,0 +1,9 @@
+User-agent: *
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Disallow: /*?*q=*
+Disallow: /*?*ask=*
+Allow: /~gitbook/image?*
+Allow: /~gitbook/icon?*
+Allow: /favicon.ico
+Allow: /
+Sitemap: https://learn.ledgifi.com/chile/sitemap.xml

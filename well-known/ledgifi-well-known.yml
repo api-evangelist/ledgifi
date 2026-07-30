@@ -1,0 +1,60 @@
+generated: '2026-07-19'
+method: probed
+source: live HTTP probes of LedgiFi hosts (2026-07-19)
+notes: >-
+  No /.well-known/ document was found on any LedgiFi host. The apex host
+  (ledgifi.com) is served behind a Vercel bot challenge that returns HTTP 429
+  ("Vercel Security Checkpoint") to every non-browser request, so the apex
+  /.well-known/ surface could not be resolved either way; it is recorded as
+  challenged rather than absent. The learn.ledgifi.com GitBook host does publish
+  a Content-Signal directive in robots.txt, captured verbatim below.
+hosts:
+- host: https://ledgifi.com
+  reachable: false
+  note: HTTP 429 Vercel bot challenge on all paths
+- host: https://api.ledgifi.com
+  reachable: true
+  note: Railway-hosted production API; unauthenticated root returns 401 "Missing `authorization` header"
+- host: https://docs.ledgifi.com
+  reachable: true
+- host: https://learn.ledgifi.com
+  reachable: true
+- host: https://blog.ledgifi.com
+  reachable: true
+documents:
+- path: /.well-known/security.txt
+  host: https://api.ledgifi.com
+  status: 404
+- path: /.well-known/openid-configuration
+  host: https://api.ledgifi.com
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  host: https://api.ledgifi.com
+  status: 404
+- path: /.well-known/api-catalog
+  host: https://api.ledgifi.com
+  status: 404
+- path: /.well-known/ai-plugin.json
+  host: https://api.ledgifi.com
+  status: 404
+- path: /.well-known/security.txt
+  host: https://docs.ledgifi.com
+  status: 404
+- path: /.well-known/security.txt
+  host: https://learn.ledgifi.com
+  status: 404
+- path: /.well-known/security.txt
+  host: https://blog.ledgifi.com
+  status: 404
+- path: /.well-known/security.txt
+  host: https://ledgifi.com
+  status: 429
+  note: bot challenge, not a definitive 404
+content_signals:
+- source: https://learn.ledgifi.com/robots.txt
+  file: ledgifi-learn-robots.txt
+  status: 200
+  directive: 'Content-Signal: ai-train=yes, search=yes, ai-input=yes'
+  ai_train: yes
+  search: yes
+  ai_input: yes

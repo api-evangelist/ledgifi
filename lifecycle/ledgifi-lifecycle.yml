@@ -1,0 +1,28 @@
+generated: '2026-07-19'
+method: searched
+source: https://status.ledgifi.com/
+status_page: https://status.ledgifi.com/
+status_page_provider: Better Stack
+monitored_components:
+- name: Web
+  uptime_90d: '99.961%'
+- name: App
+  uptime_90d: '99.981%'
+- name: API
+  uptime_90d: '99.839%'
+  note: >-
+    Confirms api.ledgifi.com is a monitored production API surface. It is the
+    LedgiFi application backend (Railway) and is not publicly documented — there
+    is no developer portal, no published specification, and no self-service API
+    program as of this pass.
+sla:
+  published: false
+  note: Uptime percentages are published on the status page over a rolling 90-day window; no formal SLA document was found.
+versioning:
+  published: false
+  note: No public versioning policy found (no public API program).
+deprecation:
+  policy_url: null
+  sunset_header: null
+  note: No deprecation or Sunset/Deprecation (RFC 8594) policy published.
+deprecated_operations: []
