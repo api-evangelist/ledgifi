@@ -17,6 +17,17 @@ description: >-
   monitored production API at api.ledgifi.com that backs its own web and mobile
   apps, but publishes no developer portal, no API specification and no
   self-service API program.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
