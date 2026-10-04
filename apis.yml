@@ -55,8 +55,8 @@ tags:
 - Company
 - Cryptocurrency
 - Tax
-- Portfolio-Management
-- Financial-Services
+- Portfolio Management
+- Financial Services
 - Accounting
 - Compliance
 - Latin America
@@ -71,6 +71,8 @@ tags_raw:
 - Compliance
 - Latin America
 - Fintech
+- Portfolio-Management
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
